@@ -1,0 +1,6 @@
+Dependencies :
+
+Éventuellement : pip install --upgrade pip
+
+pip install opencv-python
+pip install oscpy
